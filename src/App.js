@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          깃 커밋 테스트 합니다.
+          깃 커밋 테스트 합니다. test브랜치
         </a>
       </header>
     </div>
