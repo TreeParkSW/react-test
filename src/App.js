@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          깃 커밋 테스트 합니다.
         </a>
       </header>
     </div>
